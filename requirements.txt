@@ -1,0 +1,11 @@
+numpy
+torch
+matplotlib
+sklearn
+seaborn
+argparse
+arff2pandas
+tfds-nightly
+tensorflow_text
+tensorflow
+tqdm
