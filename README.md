@@ -9,6 +9,6 @@ python setup.py --install
 
 * Then, you can run the notebook notebook/sa_task_example.ipynb
 
-*Authors:
+Authors:
 * Ilan Naiman (naimani@post.bgu.ac.il)
 * Omri Azencot (azencot@cs.bgu.ac.il)
