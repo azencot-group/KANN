@@ -1,8 +1,7 @@
-# KANN: Koopman Analysis of Neural Networks
+# An Operator Theoretic Approach for Analyzing Sequence Neural Networks (KANN)
 
-KANN is a collection of python utilities for the analysis of neural networks.
-This code shows highlighting of positive and negative words (unigrams)
-using the dominant eigenvectors of the Koopman operator
+KANN (Koopman Analysis of Neural Networks) is a collection of python utilities for the analysis of neural networks.
+This code reproduces part of the experminets from the paper [An Operator Theoretic Approach for Analyzing Sequence Neural Networks](https://arxiv.org/pdf/2102.07824.pdf)
 
 * To install the package, run the following:
 python setup.py --install
