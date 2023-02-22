@@ -12,3 +12,17 @@ python setup.py --install
 Authors:
 * Ilan Naiman (naimani@post.bgu.ac.il)
 * Omri Azencot (azencot@cs.bgu.ac.il)
+
+
+## Paper
+
+If you are inspired by our work, please cite the following paper:
+
+```bibtex
+@inproceedings{naiman2023operator,
+  title={An Operator Theoretic Approach for Analyzing Sequence Neural Networks},
+  author={Naiman, Ilan and Azencot, Omri},
+  booktitle={Proceedings of the AAAI conference on artificial intelligence},
+  year={2023}
+  }
+```
